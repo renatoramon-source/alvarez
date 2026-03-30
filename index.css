@@ -1,25 +1,28 @@
 h1{
-    color: blue;
-    background-color: yellow;
 
+color: blue;
+
+background-color: yellow;
 }
 
 h2{
-    color: red;
-    background-color: gray;
+color: red;
+
+background-color: gray;
 
 }
 
-
 h3{
-    color: yellow;
-    background-color: brown;
+
+color: yellow;
+
+background-color: rgb(5, 45, 244);
 
 }
 
 p{
-  
-    color: gray;
-    background-color: mageta;
 
+  color: rgb(67, 236, 11);
+
+  background-color: rgb(255, 153, 0);
 }
