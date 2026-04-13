@@ -2,8 +2,14 @@
 
 text-transform: uppercase;
 font-size: 3em;
-color: lightgray;
+color: rgb(110, 63, 63);
 font-family: Lucida Console;
 text-indent: 2.2em;
+text-indent: 1.2em;
+text-shadow: 1px 1px 1px rgb(255, 0, 217);
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-color: blue;
+text-decoration-thickness: 0.2em;
 
 }
